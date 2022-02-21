@@ -1,7 +1,7 @@
 ## Optimization Applications for Engineering Decision Making
 ### Aalok Sharma Kafle
 
-Mini Project 1
+#### Mini Project 1
 
 You are provided a ‘real-world’ dataset (MiniProject1.csv also see Figure 1) that is posted on the Teams Channel (Goto Files). You are required to perform the following tasks:
 
