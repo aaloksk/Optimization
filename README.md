@@ -3,8 +3,7 @@
 
 Mini Project 1
 
-You are provided a ‘real-world’ dataset (MiniProject1.csv also see Figure 1) that is posted on the Teams
-Channel (Goto Files). You are required to perform the following tasks:
+You are provided a ‘real-world’ dataset (MiniProject1.csv also see Figure 1) that is posted on the Teams Channel (Goto Files). You are required to perform the following tasks:
 
 1) Fit a logistic regression model by selecting between 4 – 6 Inputs from the variables provided. Your Output Variable is the bridge condition (which is binary).
       ◦ Highlight one or two papers to guide your feature (input) selection for the logistic regression model.
@@ -17,6 +16,3 @@ Channel (Goto Files). You are required to perform the following tasks:
 
 Please summarize all your results appropriately using Table and Figures. Make sure you present a workflow (either as a list of steps, flowchart or pseudocode) for all the programs you write. Remember the focus of this class is on optimization methods and not the results per se. So presenting the logic behind the code is important.
 
-
-### Aalok-Sharma.kafle@ttu.edu
-### aalokskafle@gmail.com
