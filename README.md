@@ -1,8 +1,6 @@
-# Aalok Sharma Kafle
-# Aalok-Sharma.kafle@ttu.edu; aalokskafle@gmail.com
-
 # Optimization
 # Optimization Applications for Engineering Decision Making
+## Aalok Sharma Kafle
 
 Mini Project 1
 
@@ -19,3 +17,6 @@ Channel (Goto Files). You are required to perform the following tasks:
 
 
 Please summarize all your results appropriately using Table and Figures. Make sure you present a workflow (either as a list of steps, flowchart or pseudocode) for all the programs you write. Remember the focus of this class is on optimization methods and not the results per se. So presenting the logic behind the code is important.
+
+
+# Aalok-Sharma.kafle@ttu.edu; aalokskafle@gmail.com
