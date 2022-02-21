@@ -1,5 +1,5 @@
-# Optimization Applications for Engineering Decision Making
-## Aalok Sharma Kafle
+## Optimization Applications for Engineering Decision Making
+### Aalok Sharma Kafle
 
 Mini Project 1
 
