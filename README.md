@@ -1,4 +1,3 @@
-# Optimization
 # Optimization Applications for Engineering Decision Making
 ## Aalok Sharma Kafle
 
