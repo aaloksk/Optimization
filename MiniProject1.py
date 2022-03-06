@@ -61,9 +61,11 @@ def LL(c,X,Y):
     
     return(SLL*(-1))
 
+#Detail statistical description of each variable
+zz = br.describe()
 
-xx = br.describe()
-#xx.to_csv('Describe.csv', index=False)
+
+#zz.to_csv('Describe.csv', index=False)
 
 #Y-variable
 Y = br['BridgeCond']
@@ -152,6 +154,7 @@ for i in range(0,5300):
     
     #Intial guess
     c1 = [2.0,-1.9,0.3,-0.9,-0.3,-4.0,1.3]
+    #c1 = np.random.sample(7)
         
     #Performing Nelder-Mead for resampled dataset
     obj = minimize(LL, c1, method='Nelder-Mead',args=(X1,Y1))
@@ -168,8 +171,8 @@ for i in range(0,5300):
     #Appending the df to store all optimized coefficients
     df = pd.concat([df, dfi])
     
-    #Check forr loop 
-    print(i) 
+    #Check for loop 
+    print(i, obj.success) 
 
 df=df.reset_index() #Reseting the jumbled index value
 df #Print the final dataframe
