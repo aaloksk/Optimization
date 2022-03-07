@@ -205,6 +205,4 @@ data1=[[b0[1],b0[2]],[b1[1],b1[2]],[b2[1],b2[2]],[b3[1],b3[2]],[b4[1],b4[2]],[b5
 df_coeff1 = pd.DataFrame(data1, columns=['5th Percentile', '95th Percentile'])
 df_coeff1
 
-
-
   
